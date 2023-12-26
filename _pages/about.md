@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post-doctoral researcher at [KU Leuven, Electrical Engineering (ESAT) department](https://www.esat.kuleuven.be/psi). #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Post-doctoral researcher at <a href='https://www.esat.kuleuven.be/psi'>KU Leuven, PSI division</a> #. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am specialized in **Embedded Machine Learning** (aka TinyML) for ultra-low power IoT sensor devices, and _multi-core RISC-V Microcontrollers_ in particular. 
+I am specialized in **Embedded Machine Learning** and Deep Learning (aka TinyML) for ultra-low power IoT sensor devices, and _multi-core RISC-V Microcontrollers_ in particular. 
 My contributions concern low-bitwith quantization methods and optimized software frameworks for inference on MCUs. 
 I have also worked on full-system integration of smart audio or video sensor solutions with a power consumpions as low as few mWs (with [GreenWaves Technologies](https://greenwaves-technologies.com/)). 
 
