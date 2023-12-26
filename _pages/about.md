@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post-doctoral researcher at <a href='https://www.esat.kuleuven.be/psi'>KU Leuven, PSI division</a> #. Address. Contacts. Moto. Etc.
+subtitle: MSCA Post-doctoral fellow at <a href='https://www.esat.kuleuven.be/psi'>KU Leuven, PSI division</a> #. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -27,10 +27,9 @@ Recently, my research interest has moved towards **On-Device Learing** to improv
 In this space, I am investigating software integration of training algorithm on MCUs and efficient (continual) learning strategies for resource-constrained platoform. 
 Thanks to my [EU-funded Marie-Curie grant](https://cordis.europa.eu/project/id/101067475) (done at KU Leuven with [Prof. Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT)), I am now studying novel adaptation mechanisms for ultra-low power speech recognition sensors ([SEA2Learn project]()).   
 
+Previously, I was at Universita' di Bologna (Prof. Benini's group), where I was involved in the [PULP project](https://pulp-platform.org/) and sevaral projects in the digital design domain, ranging from FPGA-device equipment for railways applications or, during my PhD, the design of smart camera sensors with event-based cameras.
+
 <!-- 
-In the past, during my post-doc at Universita' di Bologna, I 
-
-
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
