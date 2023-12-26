@@ -25,9 +25,9 @@ I have also worked on full-system integration of smart audio or video sensor sol
 
 Recently, my research interest has moved towards **On-Device Learing** to improve at runtime the predicion capacitiy of IoT smart senors.
 In this space, I am investigating software integration of training algorithm on MCUs and efficient (continual) learning strategies for resource-constrained platoform. 
-Thanks to my [EU-funded Marie-Curie grant](https://cordis.europa.eu/project/id/101067475) (done at KU Leuven with [Prof. Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT)), I am now studying novel adaptation mechanisms for ultra-low power speech recognition sensors ([SEA2Learn project]()).   
+Thanks to my [EU-funded Marie-Curie grant](https://cordis.europa.eu/project/id/101067475) (on-going at KU Leuven with [Prof. Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT)), I am now studying novel adaptation mechanisms for ultra-low power speech recognition sensors ([SEA2Learn project]()).   
 
-Previously, I was at Universita' di Bologna (Prof. Benini's group), where I was involved in the [PULP project](https://pulp-platform.org/) and sevaral projects in the digital design domain, ranging from FPGA-device equipment for railways applications or, during my PhD, the design of smart camera sensors with event-based cameras.
+Previously, I was at Universita' di Bologna (Prof. Benini's group), where I was involved in the [PULP project](https://pulp-platform.org/) and sevaral projects in the _digital design domain_, ranging from FPGA-device equipment for railways applications or, during my PhD, the design of smart camera sensors with event-based cameras.
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
