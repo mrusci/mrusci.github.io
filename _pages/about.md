@@ -23,7 +23,7 @@ I am specialized in **Embedded Machine Learning** and Deep Learning (aka TinyML)
 My contributions concern low-bitwith quantization methods and optimized software frameworks for inference on MCUs. 
 I have also worked on full-system integration of smart audio or video sensor solutions with a power consumpions as low as few mWs (with [GreenWaves Technologies](https://greenwaves-technologies.com/)). 
 
-Recently, my research interest has moved towards **On-Device Learing** to improve at runtime the predicion capacitiy of IoT smart senors.
+Recently, my research focus has moved towards **On-Device Learing** to improve at runtime the predicion capacitiy of IoT smart sensors.
 In this space, I am investigating software integration of training algorithm on MCUs and efficient (continual) learning strategies for resource-constrained platoform. 
 Thanks to my [EU-funded Marie-Curie grant](https://cordis.europa.eu/project/id/101067475) (on-going at KU Leuven with [Prof. Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT)), I am now studying novel adaptation mechanisms for ultra-low power speech recognition sensors ([SEA2Learn project]()).   
 
