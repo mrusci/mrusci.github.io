@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post-doctoral researcher at KU Leuven. #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Post-doctoral researcher at [KU Leuven, Electrical Engineering (ESAT) department](https://www.esat.kuleuven.be/psi). #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
