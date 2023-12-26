@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Landed in Grenoble :fr: at GreenWaves Technolgies for the secondment (3 months) of my MSCA SEA2Learn project. 
+Landed in Grenoble :fr: at GreenWaves Technologies for the secondment (3 months) of my MSCA SEA2Learn project. 
