@@ -15,7 +15,6 @@
       institution: Univerità di Bologna, Bologna, Italy
       institution: Fondazione Bruno Kessler, Trento, Italy
       year: 2018
-      description: 
       Ultra-low power smart visual nodes with event-based cameras
     - title: Master Degree in Electrical Engineering
       institution: Univeristà di Firenze, Firenze, Italy
@@ -28,14 +27,11 @@
     - title: MSCA Post-Doc 
       institution: KU Leuven, Leuven, Belgium
       year: 2022 - now
-      description:
 
     - title: Post-Doc
       institution: Università di Bologna, Bologna, Italy
       year: 2018 - 2022
-      description:
-        - Description 1.
-        - Description 2.
+
 
     - title: Embedded ML Engineer
       institution: GreenWaves Technologies, Bologna, Italy
@@ -44,7 +40,6 @@
     - title: Intern
       institution: NXP Semiconductor, Eindhoven, Netherlands
       year: 2017
-      description:
 
     - title: FPGA Digital Desingner
       institution: SAITER SRl, Figline Valdarno, Italy
