@@ -12,10 +12,10 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Univerità di Bologna, Bologna, Italy
-      institution: Fondazione Bruno Kessler, Trento, Italy
+      institution: Univerità di Bologna, Bologna, Italy & Fondazione Bruno Kessler, Trento, Italy
       year: 2018
-      description: Ultra-low power smart visual nodes with event-based cameras
+      description: 
+      - Ultra-low power smart visual nodes with event-based cameras
     - title: Master Degree in Electrical Engineering
       institution: Univeristà di Firenze, Firenze, Italy
       year: 2014
