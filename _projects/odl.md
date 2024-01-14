@@ -22,6 +22,6 @@ The library is open-source on [GitHub](https://github.com/pulp-platform/pulp-tra
 ## Continual Learning on MCUs
 
 We formulated a cost model to bring continual learning with [latent replays](https://arxiv.org/abs/1912.01100) on multi-core MCUs. 
-To reduce the memory requirement, we proposed to a low-bitwidth quantization for the replay tensors up to 7 bits for a lossless solution {% cite ravaglia2021tinyml, ravaglia2020memory %}. 
+To reduce the memory requirement, we proposed to a low-bitwidth quantization for the replay tensors up to 7 bits for a lossless solution {% cite ravaglia2021tinyml,ravaglia2020memory %}. 
 Thanks to our system architecture and software stack, we could scale the final accuracy after ODL without forgetting depending on the memory size to store the replay buffer.
 

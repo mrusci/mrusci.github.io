@@ -15,6 +15,6 @@ This limitation is addressed by the SEA2Learn project, funded by the [Horizon Eu
 ## Main Project Results:
 
 * In our recent works, we study a KWS solution for microcontrollers where the target keyword class is initialized using _few-examples_ recorded from the user in-the-field.
-Our study concluded that training a KWS encoder with triplet loss on a large dataset led to superior accuracy in a realistic open-set settings with respect to precedent methods based on prototypical loss ({% cite rusci_interspeech23 %}). 
-When tested on multiple KWS tiny models, we report an accuracy of up to 80% on the Google Speech Command dataset using only 10 examples of utterances not seen during training ({% cite rusci2023device %}). 
+Our study concluded that training a KWS encoder with triplet loss on a large dataset led to superior accuracy in a realistic open-set settings with respect to precedent methods based on prototypical loss {% cite rusci_interspeech23 %}. 
+When tested on multiple KWS tiny models, we report an accuracy of up to 80% on the Google Speech Command dataset using only 10 examples of utterances not seen during training {% cite rusci2023device %}. 
 On a multicore microcontroller with a power envelope of 25 mW, the most accurate ResNet15 model takes 9.7 ms to process a 1-s speech frame, demonstrating the feasibility of on-device KWS customization for tiny devices without requiring any backpropagation-based transfer learning.
