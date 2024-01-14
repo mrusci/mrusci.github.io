@@ -13,7 +13,7 @@ These models are trained using powerfull high-performance machines and then froz
 
 This line of research tackles the common _train-once-deploy-everywhere_ scheme by investigating if deep learning models can be updated directly on-device after deployment, in short On-Device Leaning (ODL).
 
-## PULPTrain-lib: Bringing ODL to MicroControllers (MCUs)
+## PULPTrain-lib: Bringing ODL to MicroControllers
 The library collects deep learning primitives for layer-wise forward and backward passes.
 the target platform is the [PULP platform](https://pulp-platform.org/): a MCU-class architecture featuring multiple RISC-V cores with a customized ISA.
 Our efficient software solution exploits parallelization, loop unrolling and vectorized MAC instrunctions, with full- and half-precision floating point formats. 
